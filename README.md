@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Fahd Mtidam 👋
 
-<!--
-**salbatro-p/salbatro-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechatronics Engineering student** at Sakarya University of Applied Sciences (SUBÜ), Turkey — with a Specialized Technician diploma in **Automation & Industrial Instrumentation**.
 
-Here are some ideas to get you started:
+## About me
+- 🎓 Final-year Mechatronics Engineering student
+- 🤖 Interested in robotics, industrial automation, and control systems
+- 🌱 Currently learning Python through Harvard's CS50P and building toward robotics software (ROS 2)
+- 🛠️ Hands-on experience building real robots with a small team
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+Arabic (native) · French · English · Turkish
+
+## Connect
+- LinkedIn: https://www.linkedin.com/in/fahd-mtidam-b360b2bb
